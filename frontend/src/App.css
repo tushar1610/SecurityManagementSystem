@@ -1,0 +1,70 @@
+/* /* .App {
+  text-align: center;
+}
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+.dropdown-item:hover {
+  background-color: lightgrey;
+}
+
+/* .dropdown-menu {
+  background-color: #0D1623;
+}
+
+.dropdown-item {
+  color: #7F8EAD;
+}
+
+.dropdown-divider{
+  color: #7F8EAD;
+}
+
+.dropdown-item:hover {
+  color: #61A5C2;
+}
+
+.btn .btn-primary{
+  background-color: #3F88C5;
+}
+
+.nav-tabs .nav-link.active {
+  color: #3F88C5; 
+} */
+
+
+
